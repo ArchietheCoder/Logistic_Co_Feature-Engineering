@@ -28,6 +28,7 @@ Merge rows using the hinted techniques to provide a consolidated view of deliver
   * Identify and handle outliers in numerical variables, employing methods like the IQR method.
   * Apply one-hot encoding to categorical variables, such as route_type.
   * Normalize/Standardize numerical features using MinMaxScaler or StandardScaler.
+
 Repository Contents
 1. Data Processing and Exploration: Jupyter notebook showcasing the handling of missing values, data structure analysis, and row merging techniques. Demonstrating
     the extraction of features from Destination Name, Source Name, and Trip_creation_time. Comprehensive analysis including hypothesis testing, outlier handling, and
